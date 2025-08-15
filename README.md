@@ -23,4 +23,4 @@ Sebuah contoh galeri gambar dengan efek hover yang menampilkan detail karakter s
 ## Lisensi
 MIT — bebas digunakan dan dimodifikasi. Sebutkan kembali sumber jika didistribusikan
 
-<a href="https://kayissun.github.io/hovereffectgallery/">Link Demo</a>
+<a href="https://kayissun.github.io/hovereffectgallery/" target="_blank">Link Demo</a>
